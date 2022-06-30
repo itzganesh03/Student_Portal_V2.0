@@ -22,7 +22,7 @@ Step5 * add databse on your system.
 Step6 * run server and open the project directory and Enjoy.
 *************************************************************
 
-Url:http://dypiu-student-portal.epizy.com/
+Url:http://dypiu-portalv2.epizy.com/
 
 ###################
 Summery
@@ -59,10 +59,19 @@ Features
 * Report printing and export,
 * Easily accessible UI,
 * Responsive design,
-* add to 
+* add to Mobile view
+* Online Fees payment Portal
+* Parents Login Section
+* Online Results management 
+* Library management 
+* Classwork submission 
 
 ###################
 Authentication
 ###################
 
 **super admin**
+User id:-admin@admin.com
+Password:-admin@admin.com
+
+
